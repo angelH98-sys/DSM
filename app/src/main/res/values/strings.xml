@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DSM</string>
+    <string name="saludo1">Hello user</string>
+    <string name="saludo2">Welcome</string>
 </resources>
