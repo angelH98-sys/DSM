@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "330031564907",
+    "project_id": "loginfirebaseapp-9dbf8",
+    "storage_bucket": "loginfirebaseapp-9dbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330031564907:android:82c531fc22eb0ac4c4092e",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.dsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330031564907-cgkl5c3q7rp70821hbu2n0tuui69tpcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNvANfErntdwUmGldFR2F80n4yNvKrhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330031564907-cgkl5c3q7rp70821hbu2n0tuui69tpcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330031564907:android:48b6fdbf47c1055cc4092e",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330031564907-ke5mihsmms4e44unu0kdt0koiuntqv9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sv.edu.udb.myapplication",
+            "certificate_hash": "9297b0a8ecb5ebe35e805eeae7105e272a047c44"
+          }
+        },
+        {
+          "client_id": "330031564907-cgkl5c3q7rp70821hbu2n0tuui69tpcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNvANfErntdwUmGldFR2F80n4yNvKrhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330031564907-cgkl5c3q7rp70821hbu2n0tuui69tpcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

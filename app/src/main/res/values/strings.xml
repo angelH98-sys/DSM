@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DSM</string>
+
+    <string-array name="generos">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Indeterminado</item>
+    </string-array>
 </resources>
